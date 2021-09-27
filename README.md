@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, programming, DevOPS and data
 - 🌱 I’m currently learning Python and GO
 - 💞️ I’m looking to improve my skills
-- 📫 you can reach ome n my email: tomas.cajthaml@hotmail.com
+- 📫 you can reach me on my email: tomas.cajthaml@hotmail.com
 
 <!---
 cajda/cajda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
