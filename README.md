@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cajda - my name is Tomas and surname is Cajthaml
 - 👀 I’m interested in sports, programming, DevOPS and data
 - 🌱 I’m currently learning Python and GO
-- 💞️ I’m looking to improve my skills
+- 💞️ I would like to improve my skills
 - 📫 you can reach me on my email: tomas.cajthaml@hotmail.com
 
 <!---
